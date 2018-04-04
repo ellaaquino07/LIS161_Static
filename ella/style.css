@@ -1,0 +1,12 @@
+/*ella's css*/
+body{
+	background-image: url("sky.jpg");
+	font-size: 30px;
+	font-weight: bolder;
+	font-style: oblique;
+	word-spacing: 15px;
+	font-color:black;
+}
+a:hover {
+	background-color: white;
+}
